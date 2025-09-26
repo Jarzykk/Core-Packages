@@ -1,0 +1,20 @@
+{
+    "name": "TestCore.Editor",
+    "rootNamespace": "TestCore.Editor",
+    "references": [
+        "TestCore",
+        "UniTask",
+        "Zenject"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

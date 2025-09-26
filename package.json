@@ -1,0 +1,24 @@
+{
+  "name": "com.jarzykk.test-core",
+  "version": "1.0.0",
+  "displayName": "Core test",
+  "description": "Unified Core package with Logger, Analytics, and Firebase Analytics Provider",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.svermeulen.extenject": "9.2.1",
+    "com.google.firebase.analytics": "12.4.1"
+  },
+  "keywords": [
+    "unity core",
+    "logging",
+    "analytics",
+    "firebase"
+  ],
+  "author": {
+    "name": "Striped Arts",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
+
