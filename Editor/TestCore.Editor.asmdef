@@ -2,9 +2,7 @@
     "name": "TestCore.Editor",
     "rootNamespace": "TestCore.Editor",
     "references": [
-        "TestCore",
-        "UniTask",
-        "Zenject"
+        "TestCore"
     ],
     "includePlatforms": [
         "Editor"
