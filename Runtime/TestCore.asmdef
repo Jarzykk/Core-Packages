@@ -2,9 +2,9 @@
     "name": "TestCore",
     "rootNamespace": "TestCore",
     "references": [
-      "UniTask",
-      "Zenject",
-      "Firebase.Analytics"
+        "UniTask",
+        "Zenject",
+        "Firebase.Analytics"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
